@@ -1,4 +1,4 @@
-module github.com/ChristopherHarwell/Temp
+module github.com/ChristopherHarwell/git_repo_finder
 
 go 1.23.3
 
